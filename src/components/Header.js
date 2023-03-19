@@ -12,7 +12,7 @@ const Header = () => {
         />
         Meme Generator
       </span>
-      <span className="mx-4 text-base mt-auto">-made with React</span>
+      <span className="mx-4 text-base mt-auto">- made with React</span>
     </header>
   );
 };
